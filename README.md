@@ -13,5 +13,13 @@ ifconfig
 git clone https://github.com/miyachun/raspberry  
 
 
- 
+ -Virtualenv-  
+python -m venv .myenv  
+source .myenv/bin/activate  
+
+-DHT11 DHT22-  
+Python Setup  
+https://learn.adafruit.com/dht-humidity-sensing-on-raspberry-pi-with-gdocs-logging/python-setup  
+Installing the CircuitPython-DHT Library  
+https://learn.adafruit.com/circuitpython-on-raspberrypi-linux/installing-circuitpython-on-raspberry-pi  
   
