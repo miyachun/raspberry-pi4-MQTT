@@ -9,6 +9,7 @@ sudo apt update
 sudo apt upgrade  
 sudo raspi-config  
 ifconfig  
+sudo reboot  
 
 git clone https://github.com/miyachun/raspberry  
 
