@@ -8,5 +8,8 @@ sudo apt upgrade
 sudo raspi-config  
 ifconfig  
 
+git clone https://github.com/miyachun/raspberry  
+
+
  
   
