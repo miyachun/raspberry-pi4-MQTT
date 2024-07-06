@@ -14,8 +14,8 @@ git clone https://github.com/miyachun/raspberry
 
 
  -Virtualenv-  
-python -m venv .myenv  
-source .myenv/bin/activate  
+python -m venv myenv  
+source myenv/bin/activate  
 
 -DHT11 DHT22-  
 Python Setup  
