@@ -42,6 +42,7 @@ pip install rpi.gpio
 
 -MQTT Window Server-  
 1->下載 mqtt window server  
+https://mosquitto.org/download/?source=post_page-----741b655708ff--------------------------------  
 2->開啟工作管理員/服務/mosquitto(右鍵啟動)，狀態(執行中)  
 3->修改 config 檔案  
 位置 : C:\Program Files\mosquitto\mosquitto.conf  
